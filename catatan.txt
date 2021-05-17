@@ -1,0 +1,9 @@
+Fitur Di Web ini adalah
+
+Login
+1. untuk bisa login user bisa menginputkan username dan password seperti dibawah ini:
+	username = user
+	password = rahasia
+2. apabila user gagal melakukan login sebanyak 3 kali maka sistem akan
+   menghentikan program sementara selama 10 detik kemudian,
+   merefresh halaman agar user bisa melakukan login kembali sampai berhasil login.
